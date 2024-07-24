@@ -1,5 +1,6 @@
 # learning golang crud
 * https://www.youtube.com/watch?v=YYjb_RszQYY
+* https://github.com/tegarpratama/go-crud-web
 
 * jalankan
 ```bash
