@@ -1,4 +1,5 @@
-# 
+# learning golang crud
+* https://www.youtube.com/watch?v=YYjb_RszQYY
 
 * jalankan
 ```bash
