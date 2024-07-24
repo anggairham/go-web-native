@@ -12,7 +12,7 @@ var DB *sql.DB
 
 func ConnectDb() {
 	// connect mysql db
-	db, err := sql.Open("mysql", "angga:password@/go_web_native")
+	db, err := sql.Open("mysql", "angga:password@/go_web_native?parseTime=true")
 	if err != nil {
 		panic(err)
 	}
